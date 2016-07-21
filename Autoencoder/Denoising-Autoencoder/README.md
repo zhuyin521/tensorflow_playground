@@ -1,0 +1,1 @@
+This file contains denoising autoencoder: AdditiveGaussianNoiseAutoencoder and MaskingNoiseAutoencoder
